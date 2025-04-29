@@ -1,0 +1,1 @@
+select * from get_animals_in_enclosure(24);

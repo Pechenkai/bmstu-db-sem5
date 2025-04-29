@@ -1,0 +1,1 @@
+call get_animal_count();

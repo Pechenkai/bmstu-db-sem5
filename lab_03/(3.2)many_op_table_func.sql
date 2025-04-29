@@ -1,0 +1,1 @@
+select * from get_enclosure_report(34);

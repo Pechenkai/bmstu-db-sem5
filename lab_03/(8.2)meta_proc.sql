@@ -1,0 +1,1 @@
+call list_tables()

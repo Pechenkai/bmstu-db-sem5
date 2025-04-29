@@ -1,0 +1,1 @@
+insert into animals (name, species, type, age, gender, enclosure_id) values ('Leon', 'Lion', 'BigCat', 5, 'M', 142)

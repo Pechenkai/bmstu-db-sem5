@@ -1,0 +1,1 @@
+select * from get_subordinates(2);
